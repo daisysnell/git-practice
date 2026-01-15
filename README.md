@@ -37,3 +37,5 @@ git commit -m "This is code text formatting"
 
 ```
 
+That didn't work first time
+I think it is two asterixis for **Bold Text**
