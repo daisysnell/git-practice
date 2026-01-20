@@ -35,4 +35,7 @@ This took a lot longer than I thought and I had to get some help from my Mum. We
 ## Story_1 Tinkercad practice
 I had to make sure everything was connected to the right pins and the variables matched the right numbers. I **liked** the coding part and working out how to make it flash in different sequences. 
 
+## Story_2 alternating flashing LED every second
+This was interesting, coding was fun but the hooking up the wires was confusing at first but I copied the practice one. 
+
 
