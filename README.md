@@ -41,3 +41,12 @@ This was interesting, coding was fun but the hooking up the wires was confusing 
 ## Story_3 LEDs working in a pattern as motors 
 I did a flow diagram to work out the pattern of the motors.
 The crossed wires confused me at first but then I realised it was left and right pins/wheels. I decided to rename the red green yellow LEDs to enable, reverse and forwards and left and right so it would be easier to understand when checking the code. The flow diagram really helped then I could just type up the code from the picture.
+
+## Story_4 change it to make it easier to understand
+This was interesting, it was really cool to see how you can shorten such a long page of code to just a few lines in the loop. I didn't know how to do this before, so I had to get some help about functions and how to define the functions at the top of the code to use them inside the loop. I looked at a few webpages on C++ function code and then was able to deduce how to write functions and use them.
+
+
+
+
+
+
