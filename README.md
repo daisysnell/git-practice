@@ -38,4 +38,6 @@ I had to make sure everything was connected to the right pins and the variables 
 ## Story_2 alternating flashing LED every second
 This was interesting, coding was fun but the hooking up the wires was confusing at first but I copied the practice one. 
 
-
+## Story_3 LEDs working in a pattern as motors 
+I did a flow diagram to work out the pattern of the motors.
+The crossed wires confused me at first but then I realised it was left and right pins/wheels. I decided to rename the red green yellow LEDs to enable, reverse and forwards and left and right so it would be easier to understand when checking the code. The flow diagram really helped then I could just type up the code from the picture.
