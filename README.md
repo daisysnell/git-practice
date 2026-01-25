@@ -45,7 +45,8 @@ The crossed wires confused me at first but then I realised it was left and right
 ## Story_4 change it to make it easier to understand
 This was interesting, it was really cool to see how you can shorten such a long page of code to just a few lines in the loop. I didn't know how to do this before, so I had to get some help about functions and how to define the functions at the top of the code to use them inside the loop. I looked at a few webpages on C++ function code and then was able to deduce how to write functions and use them.
 
-
+## Story_5 Make the rover snake left and right for 10 seconds total
+I looked at the instructions in the manual and realised I had to add new ones to make it go left and right. First I made either the left or right enable 0, but then realised the rover would turn off one of the motors on either side every time and it would not snake but spin? So then I changed each enable on each side that wasn't meant to turn to 100 (because the lowest is 80 means it is just still moving, but I didn't want just so set it a little higher) I didn't include the millis code, but I'm going to look at this another day.
 
 
 
