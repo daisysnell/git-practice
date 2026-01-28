@@ -1,0 +1,30 @@
+
+
+git config --global user.name “Daisy Snell”
+
+git config --global user.email “daisysnell@hotmail.com”
+
+git config --global init.defaultBranch main
+
+
+
+
+type this
+ssh-keygen.exe    if using a Windows computer or
+ssh-keygen           if using a Mac or Linux computer
+
+
+
+Keep pressing enter to accept the defaults. If you’re on a school computer, you may want to add a passphrase for extra security.
+
+Now type:
+
+cd ~/.ssh
+
+ls   (that’s lower case LS to list the files)
+
+
+
+You should see files like id_rsa and id_rsa.pub. The .pub one is your public key. Show it with:
+
+cat id_rsa.pub    

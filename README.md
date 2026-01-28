@@ -48,6 +48,9 @@ This was interesting, it was really cool to see how you can shorten such a long 
 ## Story_5 Make the rover snake left and right for 10 seconds total
 I looked at the instructions in the manual and realised I had to add new ones to make it go left and right. First I made either the left or right enable 0, but then realised the rover would turn off one of the motors on either side every time and it would not snake but spin? So then I changed each enable on each side that wasn't meant to turn to 100 (because the lowest is 80 means it is just still moving, but I didn't want just so set it a little higher) I didn't include the millis code, but I'm going to look at this another day.
 
+## Story_6 make the rover stop after 2 metres
+I used the instructions and copied and pasted from story 6 and looked at Arduine IDE instructions to make new code for Story 6.  I worked out I had to declare the two new pins 3 and 2. I started out with 2 void setup and 2 void loop and I had to work out I had to put all the code under either and have one of each, one void one loop. It didn't work very well with the snaking code so I removed it and just had the goForwards function. I worked out 2 metres was count of 870 all together but I set it to 10 for testing the buttons.
+
 
 
 
