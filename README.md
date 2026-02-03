@@ -51,6 +51,16 @@ I looked at the instructions in the manual and realised I had to add new ones to
 ## Story_6 make the rover stop after 2 metres
 I used the instructions and copied and pasted from story 6 and looked at Arduine IDE instructions to make new code for Story 6.  I worked out I had to declare the two new pins 3 and 2. I started out with 2 void setup and 2 void loop and I had to work out I had to put all the code under either and have one of each, one void one loop. It didn't work very well with the snaking code so I removed it and just had the goForwards function. I worked out 2 metres was count of 870 all together but I set it to 10 for testing the buttons.
 
+## Story_7 Make the rover turn in a figure of eight once
+I had to make the rover go out for 2 seconds, turn left for .85 seconds. It wasn't keep turning for 850 I realised it had to turn then move forwards again for 2 seconds, then turn left again then forwards and back into garage and same again going right.
+
+
+## Story_8
+
+
+## Story_9
 
 
 
+## Story_10
+I made a Mission to Mars poster to promote the work experience. I saved it as an image from Word.
