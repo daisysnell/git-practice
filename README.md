@@ -56,7 +56,7 @@ I had to make the rover go out for 2 seconds, turn left for .85 seconds. It wasn
 
 
 ## Story_8
-
+I added the library and only use Arduino IDE not Tinkercad. Added a loop to avoid obstacles
 
 ## Story_9
 
