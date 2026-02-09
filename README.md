@@ -59,6 +59,7 @@ I had to make the rover go out for 2 seconds, turn left for .85 seconds. It wasn
 I added the library and only use Arduino IDE not Tinkercad. Added a loop to avoid obstacles
 
 ## Story_9
+I had to add downward sensors and change the if statement to check for holes in front more than 12cm deep.
 
 
 
